@@ -1,0 +1,26 @@
+.blue {
+    color: #4db2ec;
+}
+.red {
+    color: #ff2d2d;
+}
+.black {
+    color: #2e2f30;
+}
+.font-size-small {
+    font-size: 13px;
+}
+.font-size-big {
+    font-size: 21px;
+}
+.gray-white {
+    color: #c5c6c7;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
